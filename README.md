@@ -8,7 +8,7 @@
 - I like to watch LCK.
 
 <br /><br />
-Career <br />
+### Career
 2021.07 ~ KongTech `FE developer`
 <br /><br />
 
