@@ -4,8 +4,8 @@ __Frontend Engineer__
 ### Career
 2021.07 ~ KongTech `FE developer`
 
-`https://velog.io/@hyunheal`
-`https://d3kq1px22hh3hs.cloudfront.net`
+<a href='https://velog.io/@hyunheal'>Velog</a>
+<a href='https://d3kq1px22hh3hs.cloudfront.net'>BGT LAB</a>
 <br /><br />
 
 ### Stack
