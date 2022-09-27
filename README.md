@@ -6,7 +6,6 @@ __Frontend Engineer__
 2022.06 ~ Miridih `FE developer`
 
 <a href='https://velog.io/@hyunheal'>Velog</a> <br />
-<a href='https://d3kq1px22hh3hs.cloudfront.net'>BGT LAB</a>
 <br /><br />
 
 ### Stack
